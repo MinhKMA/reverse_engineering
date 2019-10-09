@@ -157,4 +157,4 @@ Bước 6: exploit
 
 Bước 7: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzaboLyDTeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://i.imgur.com/xUTdzLO.gif">
